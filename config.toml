@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "SMB Ukraine Club"
+theme = "smbua"
+
+[params]
+description = "Спілка українських підприємців власників малого бізнесу"
+logoimage = "img/smb-logo.png"
+
+[[menu.main]]
+weight = 1
+name = "Головна"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "Контакти"
+url = "/contacts/"
+
